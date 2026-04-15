@@ -1,20 +1,20 @@
 College Event Management System
-Overview
+📌 Overview
 
 The College Event Management System is a web-based application designed to simplify the process of organizing, managing, and participating in college events. It allows students and administrators to efficiently handle event registrations, updates, and records.
 
-Features
- User Registration & Login System
-Create and Manage Events
-View Upcoming Events
-Event Registration for Students
-Admin Dashboard for Event Control
-Search and Filter Events
-Tech Stack
+🚀 Features
+📝 User Registration & Login System
+📅 Create and Manage Events
+📢 View Upcoming Events
+✅ Event Registration for Students
+🗂️ Admin Dashboard for Event Control
+🔍 Search and Filter Events
+🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
-Project Structure
+📂 Project Structure
 College-Event-Management-System/
 │
 ├── index.html
@@ -29,10 +29,15 @@ College-Event-Management-System/
 ├── database/
 │   └── db.sql
 └── README.md
-Usage
+👩‍💻 Usage
 Admin can create, update, and delete events
 Students can register and participate in events
 Users can view event details and schedules
+🔒 Future Enhancements
+Email notifications for events
+Payment integration for paid events
+Mobile responsiveness improvement
+Role-based access control
 
 👤 Author
 
